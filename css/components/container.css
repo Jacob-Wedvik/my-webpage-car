@@ -1,0 +1,9 @@
+.container.with-background {
+  background-image: url('../Images/innsiden.jpg'); 
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  border-radius: 8px; 
+  color: white; 
+}
+
